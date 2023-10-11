@@ -35,10 +35,6 @@ namespace fibo_windows_form
                     MessageBox.Show("adde manfi va sefr nanevis");
                     return;
                 }
-                for (int i = 0; i < n; i++)
-                {
-                    x = fib(i);
-                }
                 x = fib(n);
                 MessageBox.Show("ozve "+(n+1)+" hast :"+x.ToString());
             }
