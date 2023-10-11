@@ -1,0 +1,10 @@
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\bin\Debug\fibo windows form.exe.config
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\bin\Debug\fibo windows form.exe
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\bin\Debug\fibo windows form.pdb
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo windows form.csproj.AssemblyReference.cache
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo_windows_form.Form1.resources
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo_windows_form.Properties.Resources.resources
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo windows form.csproj.GenerateResource.cache
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo windows form.csproj.CoreCompileInputs.cache
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo windows form.exe
+C:\Users\Parham\source\repos\fibo windows form\fibo windows form\obj\Debug\fibo windows form.pdb
