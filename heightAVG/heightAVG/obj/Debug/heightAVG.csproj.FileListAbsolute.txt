@@ -1,0 +1,10 @@
+C:\Users\Parham\Downloads\heightAVG\heightAVG\bin\Debug\heightAVG.exe.config
+C:\Users\Parham\Downloads\heightAVG\heightAVG\bin\Debug\heightAVG.exe
+C:\Users\Parham\Downloads\heightAVG\heightAVG\bin\Debug\heightAVG.pdb
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.csproj.AssemblyReference.cache
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.Form1.resources
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.Properties.Resources.resources
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.csproj.GenerateResource.cache
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.exe
+C:\Users\Parham\Downloads\heightAVG\heightAVG\obj\Debug\heightAVG.pdb
