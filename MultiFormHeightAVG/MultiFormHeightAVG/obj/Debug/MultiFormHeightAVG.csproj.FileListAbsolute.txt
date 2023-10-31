@@ -1,0 +1,11 @@
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\bin\Debug\MultiFormHeightAVG.exe.config
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\bin\Debug\MultiFormHeightAVG.exe
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\bin\Debug\MultiFormHeightAVG.pdb
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.csproj.AssemblyReference.cache
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.Form1.resources
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.Form2.resources
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.Properties.Resources.resources
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.csproj.GenerateResource.cache
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.exe
+C:\Users\Parham\Downloads\MultiFormHeightAVG\MultiFormHeightAVG\obj\Debug\MultiFormHeightAVG.pdb
