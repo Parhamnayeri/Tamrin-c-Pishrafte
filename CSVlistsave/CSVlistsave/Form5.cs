@@ -18,7 +18,7 @@ namespace CSVlistsave
             InitializeComponent();
         }
 
-        private void Form5_Shown(object sender, EventArgs e)
+        public void Form5_Load(object sender, EventArgs e)
         {
             string[] lines = File.ReadAllLines("Product.txt");
             List<Class2> list = new List<Class2>();
@@ -28,6 +28,7 @@ namespace CSVlistsave
                 list.Add(new Class2() { ProductName = data[0] , ProductPrice = data[1] });
             }
             dataGridView1.DataSource = list;
+            
         }
 
         private void Form5_FormClosing(object sender, FormClosingEventArgs e)
@@ -36,7 +37,17 @@ namespace CSVlistsave
             e.Cancel = true;
             
         }
+        public void RefreshForm()
+        {
+            string[] lines = File.ReadAllLines("Product.txt");
+            List<Class2> list = new List<Class2>();
+            for (int i = 0; i < lines.Length; i++)
+            {
+                string[] data = lines[i].Split('|');
+                list.Add(new Class2() { ProductName = data[0], ProductPrice = data[1] });
+            }
+            dataGridView1.DataSource = list;
+        }
 
-        
     }
 }

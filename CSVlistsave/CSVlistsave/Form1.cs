@@ -29,16 +29,20 @@ namespace CSVlistsave
         private void button1_Click(object sender, EventArgs e)
         {
             f2.Show();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             f3.Show();
+            f3.RefreshForm();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            f5.Show();
+           
+               f5.Show();
+            f5.RefreshForm();
         }
     }
 }

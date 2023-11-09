@@ -42,5 +42,18 @@ namespace CSVlistsave
         {
             
         }
+        public void RefreshForm()
+        {
+            string[] lines = File.ReadAllLines("customer.txt");
+            List<Class1> list = new List<Class1>();
+            for (int i = 0; i < lines.Length; i++)
+            {
+                string[] data = lines[i].Split('|');
+                list.Add(new Class1() { customerName = data[0], customerLastname = data[1], customerAddress = data[2], customerEmail = data[3], customerPhone = data[4] });
+            }
+            dataGridView1.DataSource = list;
+
+
+        }
     }
 }
